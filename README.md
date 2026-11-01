@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.thomasalex.in/"><img alt="The lid of my laptop, covered in stickers" src="assets/laptop.svg" width="100%"></a>
+  <a href="https://www.thomasalex.in/"><img alt="The lid of my laptop, covered in stickers" src="assets/macbook-lid.svg" width="100%"></a>
 </p>
 
 <p align="center"><sub>☝️ my laptop lid, faithfully reproduced. every sticker is true. especially the kerning one.</sub></p>
