@@ -1,7 +1,7 @@
 <!-- ·  FIFTEEN YEARS OF  ·  TURNING NOISE  ·  INTO SIGNAL  ·  (you found the hidden message. have a sticker.)  -->
 
 <p align="center">
-  <img alt="Thomas Alex" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5e5b,25:ffc145,50:3ddc97,75:3a86ff,100:b24cff&height=200&section=header&text=Thomas%20Alex&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=marketing%20%26%20comms%20%C2%B7%20brand%20%C2%B7%20narrative%20%C2%B7%20demand%20%C2%B7%20stickers&descSize=16&descAlignY=60&animation=twinkling">
+  <img alt="Thomas Alex" src="assets/header.svg" width="100%">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <a href="https://tom-xander.vercel.app"><img alt="The lid of my laptop, covered in stickers" src="assets/laptop.svg" width="100%"></a>
+  <a href="https://www.thomasalex.in/"><img alt="The lid of my laptop, covered in stickers" src="assets/laptop.svg" width="100%"></a>
 </p>
 
 <p align="center"><sub>☝️ my laptop lid, faithfully reproduced. every sticker is true. especially the kerning one.</sub></p>
@@ -88,10 +88,10 @@
 
 ## 📬 Contact
 
-<h2 align="center">The full story lives on the website. 👇</h2>
+<h2 align="center">The full story lives at thomasalex.in 👇</h2>
 
 <p align="center">
-  <a href="https://tom-xander.vercel.app"><img alt="tom-xander.vercel.app" src="https://img.shields.io/badge/tom--xander.vercel.app-VISIT_THE_SITE-ff5e5b?style=for-the-badge&labelColor=191817&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.thomasalex.in/"><img alt="thomasalex.in" src="https://img.shields.io/badge/thomasalex.in-VISIT_THE_SITE-ff5e5b?style=for-the-badge&labelColor=191817&logo=googlechrome&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@
 <br>
 
 <p align="center">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:b24cff,25:3a86ff,50:3ddc97,75:ffc145,100:ff5e5b&height=120&section=footer">
+  <img alt="" src="assets/footer.svg" width="100%">
 </p>
 
 <p align="center">
