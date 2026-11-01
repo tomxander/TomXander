@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="Nothing is my favourite starting point." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=900&color=FF5E5B&center=true&vCenter=true&width=720&height=56&lines=Nothing+is+my+favourite+starting+point.;Designer+of+brands.+Writer+of+narratives.;Builder+of+engines.+Owner+of+many+stickers.;Has+opinions+about+kerning.;Will+rebrand+your+company+for+a+decent+coffee.">
+  <img alt="Nothing is my favourite starting point." src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=400&size=30&duration=3000&pause=900&color=FF5E5B&center=true&vCenter=true&width=720&height=56&lines=Nothing+is+my+favourite+starting+point.;Designer+of+brands.+Writer+of+narratives.;Builder+of+engines.+Owner+of+many+stickers.;Has+opinions+about+kerning.;Will+rebrand+your+company+for+a+decent+coffee.">
 </p>
 
 <br>
