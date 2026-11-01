@@ -55,18 +55,18 @@
 ## 🏷️ Stickers from events, awards and questionable decisions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌶️_Pepper_Award-WINNER-ffb703?style=for-the-badge&labelColor=7a3b00">
-  <img src="https://img.shields.io/badge/📰_Newsroom-SURVIVOR-d7263d?style=for-the-badge&labelColor=111">
-  <img src="https://img.shields.io/badge/🏃_Rebrand_Marathon-FINISHER-7c3aed?style=for-the-badge&labelColor=111">
-  <img src="https://img.shields.io/badge/🎤_30%2C000_people-ONE_STORY-0ea5e9?style=for-the-badge&labelColor=111">
-  <img src="https://img.shields.io/badge/🚀_Shipped_it-FRIDAY-ff5e5b?style=for-the-badge&labelColor=111">
-  <img src="https://img.shields.io/badge/🏛️_Hallway_Test-CERTIFIED-2dbf6b?style=for-the-badge&labelColor=111">
-  <img src="https://img.shields.io/badge/🔤_Kerning-POLICE-ffc145?style=for-the-badge&labelColor=111">
-  <img src="https://img.shields.io/badge/💌_Internal_Comms-4EVER-ff4f9a?style=for-the-badge&labelColor=111">
-  <img src="https://img.shields.io/badge/🤖_AI-TEAMMATE%2C_NOT_TOY-b24cff?style=for-the-badge&labelColor=111">
-  <img src="https://img.shields.io/badge/✈️_TRV_→_DXB-2026%2C_PLOTTING-3a86ff?style=for-the-badge&labelColor=111">
-  <img src="https://img.shields.io/badge/☕_Deadline-ENERGY-6F4E37?style=for-the-badge&labelColor=111">
-  <img src="https://img.shields.io/badge/📄_Blank_pages-STARED_DOWN%3A_∞-3ddc97?style=for-the-badge&labelColor=111">
+  🌶️ <img alt="Pepper Award: WINNER" src="https://img.shields.io/badge/Pepper_Award-WINNER-ffb703?style=for-the-badge&labelColor=7a3b00">
+  📰 <img alt="Newsroom: SURVIVOR" src="https://img.shields.io/badge/Newsroom-SURVIVOR-d7263d?style=for-the-badge&labelColor=111111">
+  🏃 <img alt="Rebrand Marathon: FINISHER" src="https://img.shields.io/badge/Rebrand_Marathon-FINISHER-7c3aed?style=for-the-badge&labelColor=111111">
+  🎤 <img alt="30,000 people: ONE STORY" src="https://img.shields.io/badge/30%2C000_people-ONE_STORY-0ea5e9?style=for-the-badge&labelColor=111111">
+  🚀 <img alt="Shipped it: FRIDAY" src="https://img.shields.io/badge/Shipped_it-FRIDAY-ff5e5b?style=for-the-badge&labelColor=111111">
+  🏛️ <img alt="Hallway Test: CERTIFIED" src="https://img.shields.io/badge/Hallway_Test-CERTIFIED-2dbf6b?style=for-the-badge&labelColor=111111">
+  🔤 <img alt="Kerning: POLICE" src="https://img.shields.io/badge/Kerning-POLICE-ffc145?style=for-the-badge&labelColor=111111">
+  💌 <img alt="Internal Comms: 4EVER" src="https://img.shields.io/badge/Internal_Comms-4EVER-ff4f9a?style=for-the-badge&labelColor=111111">
+  🤖 <img alt="AI: teammate, not toy" src="https://img.shields.io/badge/AI-TEAMMATE%2C_NOT_TOY-b24cff?style=for-the-badge&labelColor=111111">
+  ✈️ <img alt="TRV to DXB: 2026, plotting" src="https://img.shields.io/badge/TRV_to_DXB-2026%2C_PLOTTING-3a86ff?style=for-the-badge&labelColor=111111">
+  ☕ <img alt="Deadline: ENERGY" src="https://img.shields.io/badge/Deadline-ENERGY-6F4E37?style=for-the-badge&labelColor=111111">
+  📄 <img alt="Blank pages: stared down, lots" src="https://img.shields.io/badge/Blank_pages-STARED_DOWN%3A_LOTS-3ddc97?style=for-the-badge&labelColor=111111">
 </p>
 
 <br>
@@ -91,7 +91,7 @@
 <h2 align="center">The full story lives on the website. 👇</h2>
 
 <p align="center">
-  <a href="https://tom-xander.vercel.app"><img alt="tom-xander.vercel.app" src="https://img.shields.io/badge/🌐_tom--xander.vercel.app-VISIT_THE_SITE_→-ff5e5b?style=for-the-badge&labelColor=191817"></a>
+  <a href="https://tom-xander.vercel.app"><img alt="tom-xander.vercel.app" src="https://img.shields.io/badge/tom--xander.vercel.app-VISIT_THE_SITE-ff5e5b?style=for-the-badge&labelColor=191817&logo=googlechrome&logoColor=white"></a>
 </p>
 
 <p align="center">
